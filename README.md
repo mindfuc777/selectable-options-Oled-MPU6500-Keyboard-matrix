@@ -1,4 +1,5 @@
-##Credits
+## Credits
+
 Gyroscope & Keypad Arduino Project
 
 A small embedded system based on Arduino Nano, MPU6050, OLED display, and a 4×4 matrix keypad.
